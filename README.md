@@ -1,6 +1,6 @@
 # All Restaurants in Aurora, Illinois, US
 
-> Free BeamStation sample export with 50 rows and masked direct-contact fields.
+> Free BeamStation sample export with 48 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `853876` |
 | Location | Aurora |
 | Category | Restaurants |
-| Full dataset size | 504 records |
-| Free sample size | 50 records (9.92%) |
-| Last export | 2026-04-09T14:22:32.346984+00:00 |
+| Full dataset size | 484 records |
+| Free sample size | 48 records (9.92%) |
+| Last export | 2026-04-16T15:28:23.482904+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-aurora-illinois-us-sample-853876/releases/download/sample-latest/beamstation_853876_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
