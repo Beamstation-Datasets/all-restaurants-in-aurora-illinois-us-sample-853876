@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Aurora, Illinois with a population of over 180k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Aurora, Illinois, US",
-  "export_job_id": "d8b6c2f0-1b9e-4ae2-8f82-49bd11a0dfaa",
+  "export_job_id": "c648fad0-2f2f-4652-aaae-fa153d2c00e0",
   "github_org": "Beamstation-Datasets",
   "id_short": 853876,
   "location_name": "Aurora",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-aurora-illinois-us-sample-853876",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/853876/beamstation_853876_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_pct": 9.92,
-  "sample_records": 50,
-  "sample_sha256": "255979c5bec711904b33bcf9dcdf0fd817337b27f5a0f3c0ed4a0b7f952f93be",
-  "sample_size_bytes": 168666,
-  "total_records": 504,
-  "updated_at": "2026-04-09T14:22:32.346984+00:00"
+  "sample_records": 48,
+  "sample_sha256": "9fb9bbaccb833333418a1e110054834251d13b855a2fd77c6a2be89c5f7ff509",
+  "sample_size_bytes": 165019,
+  "total_records": 484,
+  "updated_at": "2026-04-16T15:28:23.482904+00:00"
 }
