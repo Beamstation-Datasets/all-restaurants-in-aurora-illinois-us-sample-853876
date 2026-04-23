@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c648fad0-2f2f-4652-aaae-fa153d2c00e0",
+  "export_job_id": "3d86c9aa-fa89-43eb-9ff9-aafa3e9920c1",
   "id_short": 853876,
-  "published_at": "2026-04-19T19:34:23Z",
+  "published_at": "2026-04-23T19:42:08Z",
   "repo_name": "all-restaurants-in-aurora-illinois-us-sample-853876",
   "sample_asset_name": "beamstation_853876_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/853876/beamstation_853876_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 48,
-  "sample_sha256": "9fb9bbaccb833333418a1e110054834251d13b855a2fd77c6a2be89c5f7ff509",
-  "sample_size_bytes": 165019,
-  "total_records": 484
+  "sample_records": 38,
+  "sample_sha256": "3f40147481d7e704198c5ecf870a0f3b0fe80df1937f718fee93f09adaa71ff6",
+  "sample_size_bytes": 151397,
+  "total_records": 385
 }
